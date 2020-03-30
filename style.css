@@ -24,14 +24,16 @@ body {
 	display: flex;
 	padding: 10px;
 	border-bottom: 1px #cacaca solid;
+	justify-content: space-between;
 }
 
 .section.contact {
+	justify-content: start;
 	align-items: center;
 }
 
 .photo {
-	width: 240px;
+	width: 290px;
 	height: 300px;
 	background-color: #cacaca;
     margin-right: 30px;
